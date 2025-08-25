@@ -190,7 +190,7 @@ Check your Zapier task → Slack/Email notification should appear.
 
 ## 🧑‍💻 Author
 
-Denish Asodariya
+Utsav Vaghani
 Master’s in Computer Science | AI & Automation Enthusiast
 
 
